@@ -1,6 +1,6 @@
-# Jannat Sultana | Machine Learning & NLP Researcher 👩‍💻
+# Jannat Sultana | Researcher 👩‍💻
 
-Welcome to my GitHub! I am Jannat Sultana, a recent Computer Science graduate from North South University. 
+Welcome to my GitHub! 
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I am Jannat Sultana, a recent Computer Science graduate fr
 - **Natural Language Processing (NLP)**
 - **Explainable AI (XAI)**
 - **Health Data Science**
-I have a strong focus on **Machine Learning**, **Artificial Intelligence**, and **Natural Language Processing**. My research centers on advancing the application of ML/AI for real-world problems.
+- I have a strong focus on **Machine Learning**, **Artificial Intelligence**, and **Natural Language Processing**. My research centers on advancing the application of ML/AI for real-world problems.
 
 ## 📊 Skills
 
