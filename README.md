@@ -1,4 +1,4 @@
-![Banner]([https://github.com/YourUsername/YourRepositoryName/raw/main/pic.png](https://github.com/Jannat20242NSU/User-story/blob/main/pic.png))
+<img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="100%" />
 
 # Jannat Sultana | 👩‍💻
 
