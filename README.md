@@ -20,15 +20,15 @@ I have a strong focus on **Machine Learning**, **Artificial Intelligence**, and 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jannat20242NSU&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Jannat's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Jannat20242NSU&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=86400" alt="Jannat's GitHub Stats" />
     </td>
     <td width="300">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat20242NSU&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" style="width: 400px;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat20242NSU&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&layout=compact&cache_seconds=86400" alt="Most Used Languages" style="width: 400px;" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jannat20242NSU&theme=dark&hide_border=false" alt="Current Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jannat20242NSU&theme=dark&hide_border=false&layout=compact&cache_seconds=86400" alt="Current Streak" />
     </td>
   </tr>
 </table>
