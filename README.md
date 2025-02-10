@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="150" />
+      <img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="350" />
     </td>
     <td>
       <h1>Jannat Sultana | 👩‍💻</h1>
