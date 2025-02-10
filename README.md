@@ -1,4 +1,4 @@
-<img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="100%" />
+<img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="40%" />
 
 # Jannat Sultana | 👩‍💻
 
