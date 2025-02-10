@@ -1,8 +1,14 @@
-<img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="40%" />
-
-# Jannat Sultana | 👩‍💻
-
-Welcome to my GitHub! 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="150" />
+    </td>
+    <td>
+      <h1>Jannat Sultana | 👩‍💻</h1>
+      <p>Welcome to my GitHub!</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
