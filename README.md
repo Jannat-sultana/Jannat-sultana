@@ -1,52 +1,52 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic.png" width="350" />
-    </td>
-    <td>
-      <h1>Jannat Sultana | 👩‍💻</h1>
-      <p>Welcome to my GitHub!</p>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic3.png" width="100%" />
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+
+## 👋 &nbsp;Hey there! I'm Jannat 
+
+### 👩‍💻 &nbsp;About Me
+
+🎓 &nbsp;I recently graduated from **North South University** with a **Bachelor of Science in Computer Science and Engineering**.\
+🔬 &nbsp;I am currently working as a **Graduate Research Assistant** at **North South University**.\
+📚 &nbsp;I am also a **Graduate Teaching Assistant** at **North South University**, assisting in academic courses and student learning.\
+🌱 &nbsp;My research focuses on **Machine Learning, Natural Language Processing, and AI-driven applications**.\
+💡 &nbsp;I enjoy exploring new technologies, working on innovative projects, and contributing to open-source initiatives.\
+💬 &nbsp;Feel free to reach out for research collaborations, discussions, or general tech talk!\
+✉️ &nbsp;You can email me at **jannatsultana187@gmail.com**, and I’ll get back to you as soon as possible.
+<!--📄 &nbsp;Please have a look at my [Résumé](https://www.jannatsultana.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=EE4C2C)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+![GitHub Followers](https://img.shields.io/github/followers/Jannat20242NSU?style=social)
+![GitHub Repo Stars](https://img.shields.io/github/stars/Jannat20242NSU?style=social)
+<p align="center">
+<a href="https://github.com/Jannat20242NSU">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jannat20242NSU&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jannat20242NSU&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<a href="https://www.linkedin.com/in/jannat-sultana-312362263/"><img src="https://img.shields.io/badge/-Jannat%20Sultana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:jannatsultana187@gmail.com"><img src="https://img.shields.io/badge/-jannatsultana187@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ---
-
-## 🔬 Research Interests
-I have a strong focus on **Machine Learning**, **Artificial Intelligence**, and **Natural Language Processing**. My research centers on advancing the application of ML/AI for real-world problems.
-
-
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jannat-sultana-312362263/)
-
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 GitHub Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jannat20242NSU&theme=dark&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400" alt="Jannat's GitHub Stats" />
-    </td>
-    <td width="300">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jannat20242NSU&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=86400" alt="Most Used Languages" style="width: 400px;" />
-    </td>
-  </tr>
-</table>
-
-
-
-
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jannat20242NSU&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
----
-[![](https://visitcount.itsvg.in/api?id=Jannat20242NSU&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+🚀 **Let's collaborate!** If you're interested in NLP, DL, or ML research, feel free to connect! \
+[![Profile Views](https://komarev.com/ghpvc/?username=Jannat20242NSU&color=blue&style=flat)](https://github.com/Jannat20242NSU)
 
 ---
-
-**Note**: This repository includes selected projects and research experiments. I aim to update it regularly with new projects, findings, and open-source contributions.
