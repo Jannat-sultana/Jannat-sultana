@@ -1,4 +1,4 @@
-<img src="https://github.com/Jannat20242NSU/User-story/blob/main/pic3.png" width="100%" />
+<img src="https://github.com/Jannat-sultana/User-story/blob/main/pic3.png" width="100%" />
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
@@ -31,13 +31,13 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![GitHub Followers](https://img.shields.io/github/followers/Jannat20242NSU?style=social)
-![GitHub Repo Stars](https://img.shields.io/github/stars/Jannat20242NSU?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/Jannat-sultana?style=social)
+![GitHub Repo Stars](https://img.shields.io/github/stars/Jannat-sultana?style=social)
 
 <p align="center">
-<a href="https://github.com/Jannat20242NSU">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jannat20242NSU&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jannat20242NSU&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/Jannat-sultana">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jannat-sultana&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jannat-sultana&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
 
@@ -51,6 +51,6 @@
 
 ---
 🚀 **Let's collaborate!** If you're interested in NLP, DL, or ML research, feel free to connect! \
-[![Profile Views](https://komarev.com/ghpvc/?username=Jannat20242NSU&color=blue&style=flat)](https://github.com/Jannat20242NSU)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jannat-sultana&color=blue&style=flat)](https://github.com/Jannat-sultana)
 
 ---
