@@ -1,4 +1,4 @@
-<img src="https://github.com/Jannat-sultana/User-story/blob/main/linkedIn%20banner.png" width="100%" />
+<img src="https://github.com/Jannat-sultana/User-story/blob/main/banner.png" width="100%" />
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
